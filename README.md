@@ -1,2 +1,2 @@
 # MySalesforceDx
-Demo DX
+Salesforce DX Demo App.
