@@ -1,2 +1,14 @@
-# MySalesforceDx
-Salesforce DX Demo App.
+# SFDX  App
+
+## Dev, Build and Test
+
+
+## Resources
+
+
+## Description of Files and Directories
+
+
+## Issues
+
+
